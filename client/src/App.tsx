@@ -11,7 +11,7 @@ function App() {
   return (
     <Fragment>
       <Header
-        mainTitle={"stephensanwo.dev"}
+        mainTitle={"Resume Analyser"}
         productTitle={"Conversational AI Chatbot"}
       />
       <AppContainer>
